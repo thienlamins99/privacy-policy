@@ -1,0 +1,624 @@
+
+
+2025-08-06_15:11:47[DebugLog.java][Config:344]info:Version :4.3.39
+
+
+2025-08-06_15:11:47[Application.java][onCreate:868]info:Start App
+
+
+2025-08-06_15:11:48[MediaManager.java][<init>:293]info:MediaManager contructor
+
+
+2025-08-06_15:11:48[MediaManager.java][<init>:310]info:MediaManager start CleanUpHandlerThread
+
+
+2025-08-06_15:11:48[MediaManager.java][<init>:3247]info:INTERNAL
+
+
+2025-08-06_15:11:48[MediaManager.java][<init>:3247]info:EXTERNAL
+
+
+2025-08-06_15:11:48[DebugLog.java][createLogPing:376]info:Version :4.3.39
+
+
+2025-08-06_15:11:48[Application.java][checkLocationPermission:1216]info:Location permission is granted: true
+
+
+2025-08-06_15:11:48[Application.java][checkLocationPermission:1217]info:Background Location permission is granted: true
+
+
+2025-08-06_15:11:48[Application.java][startActivityRecognzationService:1203]info:ActivityRecognzationService start from Application
+
+
+2025-08-06_15:11:48[Application.java][onCreate:1084]info:End OnCreate
+
+
+2025-08-06_15:11:49[MediaManager.java][run:3504]info:start app MEDIA_MOUNTED
+
+
+2025-08-06_15:11:49[MediaManager.java][run:3510]info:start app MEDIA_MOUNTED external and Directory 
+
+
+2025-08-06_15:11:49[MediaManager.java][changeFileName:3289]info:directory:/storage/emulated/0/Android/data/com.knowmadics.threesixtyplus/files/media/Templogs
+
+
+2025-08-06_15:11:49[MediaManager.java][changeFileName:3289]info:directory:/storage/emulated/0/Android/data/com.knowmadics.threesixtyplus/files/media/u
+
+
+2025-08-06_15:11:49[MediaManager.java][run:3575]info:Start CheckAndAddRawUpload
+
+
+2025-08-06_15:11:49[MediaManager.java][run:3578]info:Start CheckFileMp4AndZip
+
+
+2025-08-06_15:11:49[MediaManager.java][CheckFileMp4AndZip:3269]info:mp4rootPath/storage/emulated/0/Android/data/com.knowmadics.threesixtyplus/files/media/Templogs/ts
+
+
+2025-08-06_15:11:49[MediaManager.java][CheckFileMp4AndZip:3269]info:mp4rootPath/data/user/0/com.knowmadics.threesixtyplus/files/media/
+
+
+2025-08-06_15:11:49[MainService.java][processIntent:165]info:ACTION APPLICATION STARTED
+
+
+2025-08-06_15:11:49[ActivityRecognizationService.java][onStartCommand:108]info:ActivityRecognizationService onStartCommand
+
+
+2025-08-06_15:11:49[ActivityRecognizationService.java][onStartCommand:111]info:ActivityRecognizationService onStartCommand IsFG:false
+
+
+2025-08-06_15:11:49[ActivityRecognizationService.java][startMyOwnForeground:136]info:ActivityRecognizationService startMyOwnForeground
+
+
+2025-08-06_15:11:50[ActivityRecognizationService.java][startMyOwnForeground:196]info:ActivityRecognizationService LOCATION
+
+
+2025-08-06_15:11:50[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:11:50[LoginActivity.java][LinkDeviceToUser:167]info:run LinkDeviceToUser
+
+
+2025-08-06_15:11:50[LoginActivity.java][navigate:139]info:navigate
+
+
+2025-08-06_15:11:50[LoginActivity.java][navigate:153]info:Open Home activity
+
+
+2025-08-06_15:11:53[CollectHomeActivity.java][onCreate:430]info:CHA onCreate
+
+
+2025-08-06_15:11:54[CollectHomeActivity.java][checkLocationPermission:3076]info:Location permission is granted: true
+
+
+2025-08-06_15:11:54[CollectHomeActivity.java][checkLocationPermission:3077]info:Background Location permission is granted: true
+
+
+2025-08-06_15:11:54[CollectHomeActivity.java][startLiveTracking:889]info:startLiveTracking: tracking on
+
+
+2025-08-06_15:11:54[FixManager.java][onEventMainThread:486]info:Starting Live Tracking.
+
+
+2025-08-06_15:11:54[FixManager.java][onEventMainThread:490]info:getAllowTracking:1
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkLocationPermission:3076]info:Location permission is granted: true
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkLocationPermission:3077]info:Background Location permission is granted: true
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkLocationPermission:3076]info:Location permission is granted: true
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkLocationPermission:3077]info:Background Location permission is granted: true
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkCamera:782]info:checkCamera
+
+
+2025-08-06_15:11:55[CollectHomeActivity.java][checkCamera:788]info:checkCamera ok
+
+
+2025-08-06_15:11:55[MapFragment.java][lambda$startMap$10$com-knowmadics-app-threesixtyprotect-home-protect-MapFragment:2066]info:onStyleLoaded
+
+
+2025-08-06_15:11:55[MapFragment.java][setUpNewPOIImage:7352]info:setUpNewPOIImage
+
+
+2025-08-06_15:11:55[LoginActivity.java][onResponse:189]info:run LinkDeviceToUser ok
+
+
+2025-08-06_15:11:55[PingManager.java][onEventMainThread:158]info:PM Events.AgentSettingsAcquired
+
+
+2025-08-06_15:11:55[LocationLifecycleService.java][startLocationUpdates:197]info:startLocationUpdates
+
+
+2025-08-06_15:11:55[LocationLifecycleService.java][startLocationUpdates:216]info:Activity Base UPDATE_INTERVAL:30000
+
+
+2025-08-06_15:11:55[LocationLifecycleService.java][startLocationUpdates:237]info:activity base update interval : 30000Priority:100
+
+
+2025-08-06_15:11:58[ActivityRecognizationService.java][onStartCommand:108]info:ActivityRecognizationService onStartCommand
+
+
+2025-08-06_15:11:58[ActivityRecognizationService.java][onStartCommand:111]info:ActivityRecognizationService onStartCommand IsFG:true
+
+
+2025-08-06_15:11:58[ActivityRecognizationService.java][startMyOwnForeground:136]info:ActivityRecognizationService startMyOwnForeground
+
+
+2025-08-06_15:11:58[ActivityRecognizationService.java][startMyOwnForeground:200]info:ActivityRecognizationService LOCATION|CAMERA|MIC
+
+
+2025-08-06_15:11:58[CollectHomeActivity.java][onResponse:744]info:post permission Success
+
+
+2025-08-06_15:11:58[Application.java][setConfig:1501]info:Registration Event Received
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: MissedCheckInAlert~1440
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: PINPadCASESAgent~1
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: team~
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: startDaytime~
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: endDaytime~
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: role_sosicon~0
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSavePhotoCollects~1
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSaveStreamOnlyCollects~1
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSaveStreamAndRecordCollects~1
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: project_id~
+
+
+2025-08-06_15:11:58[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableOfflineMaps~1
+
+
+2025-08-06_15:11:58[MessageService.java][doWork:194]info:Save AgentSettings in MessageService
+
+
+2025-08-06_15:11:58[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:11:59[PingManager.java][onEventMainThread:158]info:PM Events.AgentSettingsAcquired
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: MissedCheckInAlert~1440
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: PINPadCASESAgent~1
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: team~
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: startDaytime~
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: endDaytime~
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: role_sosicon~0
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSavePhotoCollects~1
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSaveStreamOnlyCollects~1
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableSaveStreamAndRecordCollects~1
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: project_id~
+
+
+2025-08-06_15:12:00[AgentSettings.java][parse:602]Error:AgentSettingsParse - No setter method found for key in param: EnableOfflineMaps~1
+
+
+2025-08-06_15:12:00[MessageService.java][doWork:194]info:Save AgentSettings in MessageService
+
+
+2025-08-06_15:12:00[PingManager.java][onEventMainThread:158]info:PM Events.AgentSettingsAcquired
+
+
+2025-08-06_15:12:00[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:03[CollectHomeActivity.java][checkLocationPermission:3076]info:Location permission is granted: true
+
+
+2025-08-06_15:12:03[CollectHomeActivity.java][checkLocationPermission:3077]info:Background Location permission is granted: true
+
+
+2025-08-06_15:12:03[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:05[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:08[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:11[MapFragment.java][clickOnLockOnButton:4869]info:clickOnLockOnButton: isLockOn = false
+
+
+2025-08-06_15:12:11[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:12[SignalrServiceDotCore.java][connectSignalr:291]info:signalrCon start
+
+
+2025-08-06_15:12:13[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:13[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:15[SignalrServiceDotCore.java][lambda$connectSignalr$1$com-knowmadics-app-services-SignalrServiceDotCore:295]info:doOnComplete : CONNECTED
+
+
+2025-08-06_15:12:15[SignalrServiceDotCore.java][registerOrg:592]info:registerOrg done
+
+
+2025-08-06_15:12:15[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:17[SignalrServiceDotCore.java][addListenerNewMessgae:705]info:register newMessage SOS for device
+
+
+2025-08-06_15:12:17[SignalrServiceDotCore.java][registerUpdateAnnotation:473]info:registerUpdateAnnotation ok
+
+
+2025-08-06_15:12:18[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:18[Application.java][onAvailable:3520]info:network onAvailable
+
+
+2025-08-06_15:12:18[PingManager.java][onEventMainThread:139]info:Network up, firing up ping thread.
+
+
+2025-08-06_15:12:18[StopMessageService.java][doWork:60]info:StopMessageService doWork
+
+
+2025-08-06_15:12:19[StopMessageService.java][doWork:79]info:actionType:{"streaming":"", "recording":"", "liveTracking":"1"}
+
+
+2025-08-06_15:12:21[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:12:21[PingManager.java][sendPingHttpV3:306]info:responseBody:4714197~project_name~
+
+
+2025-08-06_15:12:21[PingManager.java][sendPingHttpV3:321]info:sendPingHttp parse pingResults:  4714197~project_name~
+
+
+2025-08-06_15:12:22[ActivityRecognizationService.java][registryActiveRecoignize:227]info:ActivityTransitionRequest 
+
+
+2025-08-06_15:12:22[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:22[ActivityRecognizationService.java][onSuccess:300]info:ActivityTransitionRequest Successful
+
+
+2025-08-06_15:12:22[PingManager.java][onEventMainThread:158]info:PM Events.AgentSettingsAcquired
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:27]info:ActivityRecognization Received
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:30]info:ActivityTransitionResult.hasResult : true
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:37]info:Transition: STILL (ENTER)   2025_08_06 15_12_22
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:39]info:getActivityBased: 1
+
+
+2025-08-06_15:12:22[LocationLifecycleService.java][updateLocationUpdate:289]info:updateLocationUpdate
+
+
+2025-08-06_15:12:22[LocationLifecycleService.java][updateLocationUpdate:344]info:activity base edit update interval : 1800000Priority:100
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:46]info:Set Flag 0
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:48]info:application.isStartMoving = false
+
+
+2025-08-06_15:12:22[TransitionsReceiver.java][onReceive:51]info:Device - Send Stop Moving
+
+
+2025-08-06_15:12:22[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:25[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:30[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:30[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:33[SignalrServiceDotCore.java][registerMapDevices:518]info:registerMapDevices done
+
+
+2025-08-06_15:12:33[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:40[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:40[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:40[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:43[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:45[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:48[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:50[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:53[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:12:53[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:55[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:12:58[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:00[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:03[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:05[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:08[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:10[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:13[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:15[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:18[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:20[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:23[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:24[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:13:25[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:28[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:30[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:33[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:35[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:38[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:40[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:43[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:45[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:48[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:50[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:53[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:55[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:13:56[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:13:58[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:00[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:03[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:05[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:08[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:10[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:13[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:15[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:18[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:20[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:22[FixManager.java][run:1035]info:PAUSE update location
+
+
+2025-08-06_15:14:23[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:25[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:28[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:14:28[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:30[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:33[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:35[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:38[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:40[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:43[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:45[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:48[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:50[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:53[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:55[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:14:58[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:00[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:15:00[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:03[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:05[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:08[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:10[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:13[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:15[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:21[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:24[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:26[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:29[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:31[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:32[PingManager.java][sendPingHttpV3:281]info:sendPingHttp Response Body ok
+
+
+2025-08-06_15:15:34[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:37[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:39[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:42[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:44[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:46[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:49[LocationReceiver.java][onReceive:18]info:onReceive
+
+
+2025-08-06_15:15:51[LocationReceiver.java][onReceive:18]info:onReceive
